@@ -1,5 +1,3 @@
 # Exploratory-Data-Analysis
-Performed Eda on Zomato
-
-
-Performed Eda on Automobile_data (cars)
+1.Performed Eda on Zomato
+2.Performed Eda on Automobile_data (cars)
